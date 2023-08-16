@@ -6,6 +6,6 @@ import App from './App'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App user="Martin" age={23}></App>
+    <App user="Victor" age={30}></App>
   </React.StrictMode>
 )
